@@ -6,7 +6,7 @@ Key Technical Work Performed:
 
 1. Data Cleaning & Preprocessing -
 - Parsed and standardized date formats
-- Handled missing values and corrected data types
+- Corrected data types
 - Extracted month, city, and product-level information
 
 2. Exploratory Data Analysis (EDA) -
