@@ -1,0 +1,501 @@
+OrderID,OrderDate,CustomerID,Product,Category,UnitPrice,Quantity,TotalPrice,City,PaymentMethod
+1,21-01-2023,5657,Sandals,Footwear,36615,4,146460,Delhi,Credit Card
+2,01-04-2023,7437,Shoes,Footwear,55889,2,111778,Mumbai,Net Banking
+3,08-01-2023,2911,Sandals,Footwear,73438,1,73438,Mumbai,Net Banking
+4,13-12-2023,5263,Shoes,Footwear,79967,4,319868,Delhi,UPI
+5,15-12-2023,6874,Sandals,Footwear,10047,4,40188,Mumbai,Net Banking
+6,25-08-2023,7461,Sandals,Footwear,63961,3,191883,Bangalore,Net Banking
+7,13-11-2023,6529,Watch,Accessories,3003,4,12012,Mumbai,UPI
+8,11-04-2023,5109,Sandals,Footwear,77133,3,231399,Bangalore,Debit Card
+9,18-04-2023,1752,Sunglasses,Accessories,43556,4,174224,Bangalore,Debit Card
+10,12-10-2023,1813,Sandals,Footwear,68986,5,344930,Delhi,Debit Card
+11,10-09-2023,9917,Mixer,Home Appliances,73736,5,368680,Bangalore,Net Banking
+12,18-01-2023,3116,Sunglasses,Accessories,75157,3,225471,Bangalore,UPI
+13,19-07-2023,7810,Sunglasses,Accessories,70439,1,70439,Mumbai,Net Banking
+14,12-01-2023,3055,Headphones,Electronics,61355,2,122710,Pune,Cash
+15,22-01-2023,7886,Jeans,Clothing,73253,5,366265,Bangalore,Cash
+16,13-07-2023,6661,Sunglasses,Accessories,76531,4,306124,Hyderabad,Net Banking
+17,06-08-2023,4424,T-Shirt,Clothing,47023,3,141069,Bangalore,Cash
+18,01-04-2023,5550,Coffee Maker,Home Appliances,43155,4,172620,Hyderabad,UPI
+19,13-11-2023,9109,Sunglasses,Accessories,46163,4,184652,Pune,Credit Card
+20,11-06-2023,8863,Sandals,Footwear,73254,4,293016,Chennai,Net Banking
+21,10-05-2023,2028,Sunglasses,Accessories,60408,3,181224,Mumbai,UPI
+22,09-09-2023,4504,Watch,Accessories,6461,4,25844,Mumbai,Cash
+23,15-07-2023,1049,T-Shirt,Clothing,22165,3,66495,Pune,Cash
+24,26-03-2023,1200,Sunglasses,Accessories,35610,2,71220,Delhi,Net Banking
+25,11-11-2023,5954,T-Shirt,Clothing,21178,3,63534,Delhi,Debit Card
+26,02-06-2023,4558,Coffee Maker,Home Appliances,71733,4,286932,Mumbai,Debit Card
+27,21-10-2023,4139,Headphones,Electronics,67890,1,67890,Bangalore,Net Banking
+28,26-12-2023,8776,Watch,Accessories,29003,4,116012,Pune,Cash
+29,15-02-2023,6806,Laptop,Electronics,14038,5,70190,Bangalore,Cash
+30,16-10-2023,9737,Shoes,Footwear,76491,3,229473,Hyderabad,Net Banking
+31,28-11-2023,1355,Watch,Accessories,63666,5,318330,Pune,Cash
+32,20-07-2023,2773,Mixer,Home Appliances,65066,1,65066,Mumbai,Net Banking
+33,20-02-2023,3883,Jeans,Clothing,45247,3,135741,Chennai,UPI
+34,24-07-2023,5695,Sunglasses,Accessories,15410,5,77050,Chennai,Debit Card
+35,16-08-2023,9090,Coffee Maker,Home Appliances,25788,1,25788,Hyderabad,Debit Card
+36,18-03-2023,1850,Mixer,Home Appliances,78169,4,312676,Bangalore,Cash
+37,28-05-2023,1673,Sunglasses,Accessories,17938,3,53814,Delhi,Cash
+38,02-08-2023,7211,Jeans,Clothing,6393,4,25572,Bangalore,Credit Card
+39,23-04-2023,8756,Sunglasses,Accessories,33218,3,99654,Delhi,Net Banking
+40,07-01-2023,4485,Headphones,Electronics,38011,4,152044,Chennai,UPI
+41,07-03-2023,1516,Mixer,Home Appliances,52438,1,52438,Delhi,Debit Card
+42,02-12-2023,3819,Jeans,Clothing,20635,4,82540,Hyderabad,UPI
+43,29-03-2023,9888,Mixer,Home Appliances,15448,2,30896,Mumbai,Cash
+44,31-08-2023,2626,Headphones,Electronics,49894,4,199576,Bangalore,Cash
+45,05-11-2023,1937,Headphones,Electronics,61749,1,61749,Bangalore,Cash
+46,16-11-2023,9737,Coffee Maker,Home Appliances,71655,1,71655,Delhi,Cash
+47,26-09-2023,1376,Coffee Maker,Home Appliances,26625,4,106500,Pune,Debit Card
+48,22-09-2023,6430,Shoes,Footwear,69647,2,139294,Delhi,Cash
+49,07-12-2023,3399,T-Shirt,Clothing,39000,1,39000,Chennai,Net Banking
+50,30-10-2023,5204,Watch,Accessories,8068,4,32272,Pune,UPI
+51,03-07-2023,5294,Mixer,Home Appliances,14495,1,14495,Hyderabad,Cash
+52,02-01-2023,7517,Sunglasses,Accessories,25864,1,25864,Delhi,Credit Card
+53,26-10-2023,2772,Watch,Accessories,8133,2,16266,Chennai,Cash
+54,09-06-2023,7384,Mixer,Home Appliances,34771,3,104313,Pune,UPI
+55,31-12-2023,3957,Sunglasses,Accessories,61496,2,122992,Mumbai,Net Banking
+56,21-02-2023,7900,Watch,Accessories,42679,2,85358,Delhi,UPI
+57,23-09-2023,6658,Shoes,Footwear,51475,3,154425,Delhi,UPI
+58,01-10-2023,7324,Jeans,Clothing,24635,4,98540,Delhi,Credit Card
+59,11-04-2023,3161,Sunglasses,Accessories,5962,5,29810,Hyderabad,UPI
+60,10-12-2023,4157,Shoes,Footwear,4164,1,4164,Delhi,Net Banking
+61,14-01-2023,6646,Laptop,Electronics,5007,5,25035,Delhi,Debit Card
+62,27-04-2023,9660,Coffee Maker,Home Appliances,21860,3,65580,Delhi,Cash
+63,11-03-2023,3087,Laptop,Electronics,22289,2,44578,Bangalore,Cash
+64,06-07-2023,3629,Headphones,Electronics,74466,2,148932,Hyderabad,UPI
+65,06-02-2023,6858,T-Shirt,Clothing,1757,5,8785,Chennai,Debit Card
+66,03-02-2023,9629,Laptop,Electronics,19289,5,96445,Chennai,Credit Card
+67,09-03-2023,1171,Sandals,Footwear,69080,3,207240,Pune,UPI
+68,24-03-2023,6885,Sandals,Footwear,15547,4,62188,Pune,Net Banking
+69,11-01-2023,7643,Laptop,Electronics,64925,1,64925,Mumbai,Credit Card
+70,19-08-2023,6102,Laptop,Electronics,11182,2,22364,Hyderabad,UPI
+71,08-08-2023,4262,Mixer,Home Appliances,16924,4,67696,Bangalore,UPI
+72,01-11-2023,9830,Shoes,Footwear,62625,4,250500,Bangalore,Cash
+73,09-03-2023,3186,T-Shirt,Clothing,55170,3,165510,Chennai,Credit Card
+74,19-11-2023,6547,Coffee Maker,Home Appliances,66144,1,66144,Chennai,Debit Card
+75,29-05-2023,8761,Sandals,Footwear,34642,2,69284,Pune,UPI
+76,12-01-2023,2693,Mixer,Home Appliances,69220,3,207660,Hyderabad,Net Banking
+77,18-12-2023,5792,Coffee Maker,Home Appliances,9979,4,39916,Delhi,Debit Card
+78,18-02-2023,1793,Sandals,Footwear,78300,3,234900,Chennai,Net Banking
+79,11-07-2023,8114,Mixer,Home Appliances,73496,4,293984,Pune,Net Banking
+80,02-05-2023,7293,Headphones,Electronics,63497,3,190491,Hyderabad,Credit Card
+81,21-10-2023,9534,Headphones,Electronics,30057,1,30057,Bangalore,Cash
+82,24-02-2023,7643,Headphones,Electronics,12285,1,12285,Delhi,Credit Card
+83,08-08-2023,9470,Jeans,Clothing,24726,2,49452,Bangalore,UPI
+84,23-01-2023,2726,Sandals,Footwear,9499,1,9499,Chennai,Net Banking
+85,31-05-2023,8974,Sandals,Footwear,6558,5,32790,Delhi,Cash
+86,23-05-2023,2728,Jeans,Clothing,29355,5,146775,Bangalore,Cash
+87,04-06-2023,7960,Watch,Accessories,67592,1,67592,Bangalore,UPI
+88,22-12-2023,6469,Coffee Maker,Home Appliances,44795,3,134385,Chennai,UPI
+89,21-04-2023,4460,Coffee Maker,Home Appliances,23902,5,119510,Delhi,Cash
+90,29-06-2023,9336,Coffee Maker,Home Appliances,73581,5,367905,Hyderabad,UPI
+91,29-05-2023,1197,Coffee Maker,Home Appliances,31362,2,62724,Bangalore,Debit Card
+92,30-05-2023,1200,Sandals,Footwear,62275,1,62275,Delhi,Cash
+93,23-08-2023,3102,Coffee Maker,Home Appliances,32976,5,164880,Delhi,UPI
+94,22-09-2023,9721,T-Shirt,Clothing,15125,5,75625,Mumbai,Net Banking
+95,09-11-2023,6239,Sunglasses,Accessories,9562,5,47810,Hyderabad,UPI
+96,15-01-2023,1461,Jeans,Clothing,61611,2,123222,Hyderabad,Credit Card
+97,29-05-2023,3962,Shoes,Footwear,938,4,3752,Hyderabad,Net Banking
+98,11-01-2023,1701,Headphones,Electronics,36574,2,73148,Bangalore,Credit Card
+99,10-01-2023,2142,T-Shirt,Clothing,13554,4,54216,Delhi,UPI
+100,31-05-2023,6330,Coffee Maker,Home Appliances,16568,5,82840,Hyderabad,Debit Card
+101,21-09-2023,2984,Shoes,Footwear,23608,4,94432,Delhi,UPI
+102,16-03-2023,8459,Shoes,Footwear,30190,3,90570,Mumbai,Credit Card
+103,31-10-2023,7342,Laptop,Electronics,6934,3,20802,Mumbai,Credit Card
+104,13-10-2023,7728,Jeans,Clothing,59593,4,238372,Pune,Cash
+105,17-07-2023,1036,Mixer,Home Appliances,49085,2,98170,Bangalore,Net Banking
+106,01-02-2023,7501,Coffee Maker,Home Appliances,46709,2,93418,Mumbai,Debit Card
+107,22-03-2023,6889,Headphones,Electronics,28627,4,114508,Mumbai,Net Banking
+108,17-04-2023,2020,Coffee Maker,Home Appliances,34055,2,68110,Delhi,Credit Card
+109,16-03-2023,4544,Headphones,Electronics,6741,3,20223,Bangalore,UPI
+110,19-12-2023,9541,Headphones,Electronics,6231,1,6231,Hyderabad,Net Banking
+111,31-05-2023,2125,Jeans,Clothing,7045,5,35225,Pune,UPI
+112,02-01-2023,6245,Headphones,Electronics,35216,5,176080,Delhi,Net Banking
+113,26-09-2023,9919,Coffee Maker,Home Appliances,2561,2,5122,Bangalore,Debit Card
+114,06-08-2023,3212,T-Shirt,Clothing,17290,3,51870,Delhi,Net Banking
+115,11-10-2023,5915,Shoes,Footwear,47834,5,239170,Chennai,Cash
+116,25-12-2023,1054,Coffee Maker,Home Appliances,32609,4,130436,Mumbai,Credit Card
+117,17-11-2023,4960,Jeans,Clothing,25124,3,75372,Chennai,Credit Card
+118,02-11-2023,1104,Coffee Maker,Home Appliances,41532,4,166128,Delhi,Cash
+119,06-08-2023,4976,Shoes,Footwear,31686,3,95058,Hyderabad,UPI
+120,29-09-2023,5139,Jeans,Clothing,30014,5,150070,Chennai,UPI
+121,28-10-2023,5331,T-Shirt,Clothing,8511,4,34044,Pune,UPI
+122,25-01-2023,4779,Mixer,Home Appliances,28597,5,142985,Chennai,Credit Card
+123,04-03-2023,2937,Sandals,Footwear,37649,1,37649,Delhi,Net Banking
+124,23-04-2023,9783,Sunglasses,Accessories,56610,1,56610,Mumbai,Cash
+125,24-01-2023,7155,Shoes,Footwear,17015,1,17015,Pune,Cash
+126,12-06-2023,1090,T-Shirt,Clothing,9192,3,27576,Delhi,Debit Card
+127,07-11-2023,5580,Watch,Accessories,79189,3,237567,Bangalore,Debit Card
+128,17-02-2023,3608,Laptop,Electronics,77661,2,155322,Hyderabad,Net Banking
+129,11-02-2023,8853,Sunglasses,Accessories,21494,1,21494,Hyderabad,Net Banking
+130,01-03-2023,4747,Jeans,Clothing,48282,3,144846,Hyderabad,Debit Card
+131,23-06-2023,1939,Mixer,Home Appliances,46760,2,93520,Delhi,Net Banking
+132,31-07-2023,5671,Sandals,Footwear,35797,2,71594,Delhi,UPI
+133,02-09-2023,1479,Sunglasses,Accessories,39695,1,39695,Hyderabad,Credit Card
+134,21-03-2023,1981,T-Shirt,Clothing,62593,1,62593,Hyderabad,Cash
+135,05-07-2023,8212,Sunglasses,Accessories,68099,3,204297,Mumbai,Cash
+136,28-11-2023,1155,Headphones,Electronics,34335,1,34335,Hyderabad,Credit Card
+137,13-11-2023,8694,Shoes,Footwear,59136,1,59136,Pune,Debit Card
+138,04-05-2023,6480,Coffee Maker,Home Appliances,4790,1,4790,Chennai,Net Banking
+139,15-01-2023,4160,Sandals,Footwear,56365,3,169095,Mumbai,Net Banking
+140,20-03-2023,2943,Shoes,Footwear,33620,2,67240,Mumbai,Debit Card
+141,09-01-2023,6781,Headphones,Electronics,33689,1,33689,Pune,Debit Card
+142,09-03-2023,9486,Laptop,Electronics,40202,1,40202,Mumbai,Debit Card
+143,06-03-2023,9593,Watch,Accessories,27726,4,110904,Pune,Net Banking
+144,30-10-2023,1972,Mixer,Home Appliances,25634,5,128170,Hyderabad,Net Banking
+145,22-06-2023,9852,T-Shirt,Clothing,32676,2,65352,Mumbai,Debit Card
+146,31-07-2023,4721,Sandals,Footwear,39359,1,39359,Mumbai,UPI
+147,09-05-2023,1994,Mixer,Home Appliances,55400,3,166200,Pune,Cash
+148,19-02-2023,1142,T-Shirt,Clothing,78708,1,78708,Delhi,Net Banking
+149,26-02-2023,1479,Coffee Maker,Home Appliances,13784,4,55136,Mumbai,Cash
+150,08-03-2023,7294,Sandals,Footwear,1535,3,4605,Hyderabad,Net Banking
+151,11-08-2023,7088,Mixer,Home Appliances,5579,5,27895,Pune,Cash
+152,30-01-2023,1606,Headphones,Electronics,68278,5,341390,Delhi,Debit Card
+153,30-04-2023,5703,Sunglasses,Accessories,32953,4,131812,Pune,UPI
+154,17-09-2023,8048,T-Shirt,Clothing,74808,2,149616,Hyderabad,UPI
+155,18-10-2023,2168,Laptop,Electronics,44922,1,44922,Bangalore,Credit Card
+156,10-08-2023,5576,Watch,Accessories,57217,1,57217,Pune,Net Banking
+157,06-07-2023,9616,Watch,Accessories,72353,2,144706,Pune,Debit Card
+158,18-08-2023,4177,Mixer,Home Appliances,16959,3,50877,Mumbai,Net Banking
+159,28-05-2023,2921,T-Shirt,Clothing,3364,5,16820,Bangalore,Cash
+160,22-03-2023,5993,Laptop,Electronics,47757,5,238785,Delhi,UPI
+161,06-06-2023,4582,Headphones,Electronics,13920,2,27840,Mumbai,Credit Card
+162,02-06-2023,5503,Sandals,Footwear,31147,2,62294,Bangalore,Net Banking
+163,18-04-2023,8444,Jeans,Clothing,77894,3,233682,Bangalore,Credit Card
+164,12-11-2023,7954,Shoes,Footwear,5427,4,21708,Hyderabad,Credit Card
+165,24-01-2023,7209,Sunglasses,Accessories,26074,5,130370,Hyderabad,Debit Card
+166,20-04-2023,1849,Sunglasses,Accessories,34403,3,103209,Pune,Debit Card
+167,08-12-2023,1197,Jeans,Clothing,50039,4,200156,Delhi,Cash
+168,14-04-2023,4926,Laptop,Electronics,40938,3,122814,Mumbai,Cash
+169,13-08-2023,1279,T-Shirt,Clothing,485,1,485,Chennai,Credit Card
+170,02-06-2023,3995,Watch,Accessories,74853,1,74853,Hyderabad,Net Banking
+171,08-07-2023,5236,T-Shirt,Clothing,71412,1,71412,Delhi,UPI
+172,20-06-2023,7459,Sunglasses,Accessories,68791,5,343955,Hyderabad,Credit Card
+173,30-07-2023,9896,Sunglasses,Accessories,8823,2,17646,Hyderabad,Net Banking
+174,23-12-2023,8115,Mixer,Home Appliances,24811,4,99244,Pune,UPI
+175,04-08-2023,3033,T-Shirt,Clothing,5033,1,5033,Mumbai,UPI
+176,14-04-2023,4358,Laptop,Electronics,4716,4,18864,Delhi,Cash
+177,14-05-2023,3736,T-Shirt,Clothing,61445,1,61445,Hyderabad,Credit Card
+178,23-10-2023,6640,Coffee Maker,Home Appliances,59352,5,296760,Delhi,Cash
+179,05-10-2023,6388,Jeans,Clothing,71759,3,215277,Chennai,Credit Card
+180,11-12-2023,3464,Watch,Accessories,70772,3,212316,Mumbai,UPI
+181,30-03-2023,1422,Headphones,Electronics,73533,5,367665,Mumbai,Debit Card
+182,08-10-2023,5284,Laptop,Electronics,32104,3,96312,Chennai,Net Banking
+183,16-01-2023,1374,Sunglasses,Accessories,18188,4,72752,Delhi,Credit Card
+184,02-08-2023,3742,Watch,Accessories,30486,3,91458,Chennai,Debit Card
+185,04-09-2023,7372,Jeans,Clothing,40577,3,121731,Bangalore,Credit Card
+186,11-02-2023,6878,Headphones,Electronics,61297,1,61297,Mumbai,Debit Card
+187,01-10-2023,8340,T-Shirt,Clothing,24179,2,48358,Pune,Debit Card
+188,08-03-2023,4027,Coffee Maker,Home Appliances,54648,3,163944,Pune,Net Banking
+189,06-08-2023,4275,Laptop,Electronics,39948,1,39948,Pune,Debit Card
+190,05-07-2023,1012,Coffee Maker,Home Appliances,59261,3,177783,Pune,Cash
+191,30-07-2023,8967,Headphones,Electronics,73978,1,73978,Bangalore,Net Banking
+192,25-04-2023,8219,Watch,Accessories,7894,4,31576,Hyderabad,Net Banking
+193,18-07-2023,4950,Laptop,Electronics,16698,4,66792,Hyderabad,Debit Card
+194,13-03-2023,7597,Jeans,Clothing,10702,4,42808,Pune,UPI
+195,10-09-2023,2323,Sunglasses,Accessories,56298,5,281490,Pune,Net Banking
+196,06-08-2023,8609,Coffee Maker,Home Appliances,34754,5,173770,Delhi,Net Banking
+197,03-10-2023,9452,Headphones,Electronics,23646,2,47292,Hyderabad,Credit Card
+198,25-06-2023,9718,Jeans,Clothing,37170,1,37170,Chennai,Debit Card
+199,02-01-2023,4626,Coffee Maker,Home Appliances,39759,4,159036,Bangalore,Cash
+200,17-10-2023,7392,Headphones,Electronics,71751,3,215253,Pune,UPI
+201,02-04-2023,3317,Shoes,Footwear,54144,3,162432,Chennai,Cash
+202,04-08-2023,5590,Mixer,Home Appliances,78907,4,315628,Hyderabad,Credit Card
+203,25-05-2023,3764,Watch,Accessories,20082,5,100410,Delhi,Net Banking
+204,19-04-2023,2240,Sandals,Footwear,32761,4,131044,Bangalore,Net Banking
+205,26-09-2023,5727,Sandals,Footwear,41715,2,83430,Delhi,Credit Card
+206,22-12-2023,7323,Sunglasses,Accessories,71517,5,357585,Mumbai,Net Banking
+207,18-12-2023,1553,Shoes,Footwear,51485,3,154455,Hyderabad,Debit Card
+208,18-07-2023,3832,Watch,Accessories,65247,4,260988,Pune,Net Banking
+209,28-08-2023,3514,Laptop,Electronics,53181,5,265905,Pune,Debit Card
+210,03-08-2023,1164,Coffee Maker,Home Appliances,63076,3,189228,Mumbai,Net Banking
+211,12-12-2023,9861,Headphones,Electronics,79418,3,238254,Chennai,Debit Card
+212,15-07-2023,5460,Shoes,Footwear,43909,1,43909,Mumbai,UPI
+213,26-10-2023,7794,Mixer,Home Appliances,26707,2,53414,Delhi,UPI
+214,16-01-2023,8326,Shoes,Footwear,34513,3,103539,Delhi,Credit Card
+215,15-12-2023,4252,Jeans,Clothing,39185,1,39185,Mumbai,Net Banking
+216,12-05-2023,7659,Laptop,Electronics,43881,2,87762,Delhi,Debit Card
+217,08-09-2023,2308,Sandals,Footwear,21100,3,63300,Delhi,Credit Card
+218,23-05-2023,1137,Coffee Maker,Home Appliances,32433,4,129732,Delhi,Credit Card
+219,10-11-2023,9924,Shoes,Footwear,22002,4,88008,Chennai,Debit Card
+220,19-05-2023,9486,Headphones,Electronics,71748,5,358740,Mumbai,Cash
+221,05-06-2023,7805,Headphones,Electronics,24425,1,24425,Pune,Net Banking
+222,12-02-2023,2777,Shoes,Footwear,54165,4,216660,Bangalore,Cash
+223,17-02-2023,3254,Sunglasses,Accessories,7539,1,7539,Pune,UPI
+224,25-03-2023,1723,Mixer,Home Appliances,29443,2,58886,Hyderabad,Debit Card
+225,02-12-2023,5989,T-Shirt,Clothing,6762,5,33810,Hyderabad,Net Banking
+226,05-05-2023,8980,Jeans,Clothing,66937,3,200811,Pune,Cash
+227,02-01-2023,5678,Sunglasses,Accessories,14229,4,56916,Delhi,Net Banking
+228,28-04-2023,6536,Shoes,Footwear,44306,1,44306,Delhi,Cash
+229,09-12-2023,7188,Sandals,Footwear,55887,4,223548,Chennai,Debit Card
+230,07-01-2023,1298,Jeans,Clothing,65359,4,261436,Hyderabad,UPI
+231,19-12-2023,4434,Shoes,Footwear,79559,1,79559,Chennai,Net Banking
+232,07-12-2023,2376,Mixer,Home Appliances,56395,5,281975,Mumbai,Cash
+233,10-10-2023,2645,Mixer,Home Appliances,29845,2,59690,Delhi,Net Banking
+234,30-03-2023,1114,Shoes,Footwear,78240,4,312960,Delhi,Cash
+235,24-01-2023,9315,Shoes,Footwear,57736,5,288680,Hyderabad,Cash
+236,22-09-2023,2932,Coffee Maker,Home Appliances,49870,2,99740,Mumbai,Net Banking
+237,11-05-2023,5865,Headphones,Electronics,32495,3,97485,Mumbai,Net Banking
+238,06-11-2023,1703,Laptop,Electronics,20664,3,61992,Mumbai,Net Banking
+239,21-01-2023,6784,Coffee Maker,Home Appliances,29956,4,119824,Pune,Debit Card
+240,04-07-2023,3646,Sandals,Footwear,14654,3,43962,Chennai,Credit Card
+241,25-05-2023,2420,Jeans,Clothing,65232,4,260928,Bangalore,Credit Card
+242,25-02-2023,9314,Sandals,Footwear,27743,1,27743,Mumbai,Cash
+243,01-04-2023,9518,Watch,Accessories,64123,2,128246,Bangalore,Net Banking
+244,08-05-2023,6942,Jeans,Clothing,77831,5,389155,Delhi,Cash
+245,06-12-2023,6093,T-Shirt,Clothing,27905,4,111620,Delhi,Debit Card
+246,19-06-2023,5028,Sunglasses,Accessories,26058,2,52116,Delhi,Debit Card
+247,01-09-2023,1799,Laptop,Electronics,48741,3,146223,Delhi,Net Banking
+248,04-07-2023,7428,Jeans,Clothing,45981,1,45981,Bangalore,Net Banking
+249,04-04-2023,1594,Shoes,Footwear,10465,4,41860,Pune,Cash
+250,31-10-2023,8021,Jeans,Clothing,27722,5,138610,Pune,UPI
+251,14-10-2023,2069,Watch,Accessories,9204,3,27612,Hyderabad,Credit Card
+252,08-12-2023,3797,Sunglasses,Accessories,78727,3,236181,Mumbai,Net Banking
+253,12-06-2023,1933,Headphones,Electronics,48078,5,240390,Bangalore,UPI
+254,29-08-2023,3389,Jeans,Clothing,37720,4,150880,Pune,Debit Card
+255,09-09-2023,8958,Sunglasses,Accessories,56013,4,224052,Bangalore,UPI
+256,29-09-2023,7873,Mixer,Home Appliances,61238,2,122476,Pune,Debit Card
+257,26-07-2023,4934,Laptop,Electronics,63572,2,127144,Delhi,Credit Card
+258,28-07-2023,5397,Sunglasses,Accessories,56734,2,113468,Chennai,Net Banking
+259,01-01-2023,2264,T-Shirt,Clothing,38147,3,114441,Mumbai,Cash
+260,14-02-2023,8120,T-Shirt,Clothing,1020,4,4080,Hyderabad,Credit Card
+261,04-09-2023,7063,Sandals,Footwear,30402,4,121608,Pune,Net Banking
+262,17-08-2023,4188,T-Shirt,Clothing,26314,1,26314,Chennai,Cash
+263,01-06-2023,9518,Jeans,Clothing,75713,1,75713,Chennai,Net Banking
+264,19-05-2023,4303,Laptop,Electronics,27211,2,54422,Hyderabad,UPI
+265,06-12-2023,2999,Mixer,Home Appliances,63445,2,126890,Hyderabad,Net Banking
+266,25-02-2023,9440,Shoes,Footwear,68166,5,340830,Mumbai,Cash
+267,28-04-2023,6835,Shoes,Footwear,79497,4,317988,Hyderabad,UPI
+268,25-09-2023,3534,Watch,Accessories,29010,3,87030,Pune,Cash
+269,27-11-2023,2075,Shoes,Footwear,72311,4,289244,Hyderabad,Debit Card
+270,04-04-2023,4559,T-Shirt,Clothing,35947,1,35947,Mumbai,Credit Card
+271,27-03-2023,9204,Headphones,Electronics,64242,4,256968,Hyderabad,Credit Card
+272,22-08-2023,8496,Headphones,Electronics,7303,4,29212,Chennai,Debit Card
+273,03-05-2023,6401,Coffee Maker,Home Appliances,63777,1,63777,Pune,Credit Card
+274,18-11-2023,4935,T-Shirt,Clothing,33746,3,101238,Pune,UPI
+275,11-10-2023,4163,T-Shirt,Clothing,4792,4,19168,Chennai,UPI
+276,07-03-2023,2626,Sandals,Footwear,28016,2,56032,Pune,Net Banking
+277,01-08-2023,2948,Mixer,Home Appliances,64476,4,257904,Delhi,Debit Card
+278,18-12-2023,2571,Headphones,Electronics,76341,4,305364,Chennai,Cash
+279,28-01-2023,3478,Sandals,Footwear,74576,1,74576,Chennai,Net Banking
+280,26-12-2023,1816,Mixer,Home Appliances,45576,1,45576,Delhi,Credit Card
+281,09-02-2023,6158,Laptop,Electronics,10042,5,50210,Mumbai,Credit Card
+282,24-07-2023,2495,Jeans,Clothing,73262,3,219786,Bangalore,UPI
+283,12-07-2023,8919,Sunglasses,Accessories,77027,1,77027,Mumbai,Net Banking
+284,27-11-2023,6787,Coffee Maker,Home Appliances,63654,1,63654,Hyderabad,UPI
+285,26-06-2023,2566,Shoes,Footwear,8807,2,17614,Chennai,Credit Card
+286,03-12-2023,8600,Coffee Maker,Home Appliances,62518,1,62518,Chennai,Net Banking
+287,27-12-2023,7035,T-Shirt,Clothing,49148,4,196592,Bangalore,Credit Card
+288,29-03-2023,9127,Sandals,Footwear,37090,4,148360,Mumbai,UPI
+289,03-02-2023,1163,T-Shirt,Clothing,19078,4,76312,Pune,Net Banking
+290,28-06-2023,4310,Laptop,Electronics,57426,3,172278,Mumbai,UPI
+291,10-12-2023,5939,Jeans,Clothing,5625,3,16875,Chennai,Net Banking
+292,15-03-2023,3429,Jeans,Clothing,12071,1,12071,Bangalore,Cash
+293,04-08-2023,2551,Shoes,Footwear,49342,5,246710,Chennai,Debit Card
+294,25-01-2023,8420,Shoes,Footwear,57853,3,173559,Delhi,Credit Card
+295,27-10-2023,8977,T-Shirt,Clothing,26165,1,26165,Hyderabad,UPI
+296,04-05-2023,4671,Sunglasses,Accessories,77372,2,154744,Hyderabad,Cash
+297,16-02-2023,4173,Jeans,Clothing,51515,4,206060,Delhi,Credit Card
+298,17-03-2023,2254,Coffee Maker,Home Appliances,6124,3,18372,Delhi,Net Banking
+299,20-12-2023,7859,T-Shirt,Clothing,2903,3,8709,Chennai,Net Banking
+300,22-03-2023,7664,Headphones,Electronics,28593,1,28593,Bangalore,Debit Card
+301,02-10-2023,7692,Watch,Accessories,62719,2,125438,Hyderabad,Credit Card
+302,28-07-2023,2872,T-Shirt,Clothing,5545,5,27725,Pune,Cash
+303,16-06-2023,1545,Watch,Accessories,44941,2,89882,Delhi,Credit Card
+304,01-09-2023,8203,T-Shirt,Clothing,78795,2,157590,Mumbai,Debit Card
+305,14-07-2023,6808,Coffee Maker,Home Appliances,11251,4,45004,Hyderabad,Net Banking
+306,13-11-2023,2909,Coffee Maker,Home Appliances,36132,3,108396,Pune,Cash
+307,14-10-2023,1394,Sandals,Footwear,53972,5,269860,Pune,Debit Card
+308,28-04-2023,6520,T-Shirt,Clothing,18298,4,73192,Delhi,Net Banking
+309,07-10-2023,5395,Sandals,Footwear,23087,2,46174,Hyderabad,Credit Card
+310,15-03-2023,2056,Headphones,Electronics,74566,2,149132,Bangalore,Credit Card
+311,30-11-2023,9173,Mixer,Home Appliances,51181,5,255905,Hyderabad,Credit Card
+312,05-11-2023,8140,Jeans,Clothing,15677,3,47031,Mumbai,UPI
+313,23-03-2023,2519,Sunglasses,Accessories,64584,2,129168,Mumbai,Credit Card
+314,11-07-2023,1677,Mixer,Home Appliances,15859,1,15859,Hyderabad,Cash
+315,30-03-2023,7690,Watch,Accessories,65327,1,65327,Mumbai,Debit Card
+316,17-04-2023,3262,Headphones,Electronics,24052,3,72156,Hyderabad,Debit Card
+317,11-02-2023,5449,Sunglasses,Accessories,48755,5,243775,Mumbai,UPI
+318,06-06-2023,9446,T-Shirt,Clothing,9879,2,19758,Pune,Net Banking
+319,21-04-2023,8640,Sunglasses,Accessories,73327,5,366635,Hyderabad,Credit Card
+320,14-01-2023,8993,Headphones,Electronics,64894,2,129788,Bangalore,Cash
+321,14-10-2023,3065,Jeans,Clothing,39143,3,117429,Mumbai,Debit Card
+322,30-11-2023,8020,Mixer,Home Appliances,66271,1,66271,Pune,Net Banking
+323,30-09-2023,1577,Sunglasses,Accessories,13366,4,53464,Bangalore,Cash
+324,26-04-2023,9608,Shoes,Footwear,67476,2,134952,Pune,Net Banking
+325,16-09-2023,9735,Laptop,Electronics,78707,5,393535,Hyderabad,Debit Card
+326,14-05-2023,1928,Watch,Accessories,52912,5,264560,Bangalore,Debit Card
+327,11-04-2023,1977,Sandals,Footwear,65220,1,65220,Delhi,Debit Card
+328,09-12-2023,4845,Jeans,Clothing,49737,5,248685,Hyderabad,Net Banking
+329,18-03-2023,7408,T-Shirt,Clothing,69171,3,207513,Delhi,UPI
+330,14-03-2023,5658,Jeans,Clothing,57580,5,287900,Mumbai,Credit Card
+331,29-11-2023,2675,Sunglasses,Accessories,61817,5,309085,Mumbai,Debit Card
+332,28-02-2023,5062,T-Shirt,Clothing,48241,2,96482,Pune,Credit Card
+333,10-04-2023,6722,Mixer,Home Appliances,28184,1,28184,Delhi,Debit Card
+334,03-01-2023,3135,Sunglasses,Accessories,11172,2,22344,Mumbai,Debit Card
+335,12-06-2023,4826,Mixer,Home Appliances,25419,5,127095,Pune,Net Banking
+336,08-10-2023,7631,Headphones,Electronics,78584,5,392920,Chennai,Cash
+337,15-06-2023,2808,Sandals,Footwear,23603,5,118015,Hyderabad,Cash
+338,10-08-2023,3334,Mixer,Home Appliances,78099,3,234297,Bangalore,Cash
+339,06-07-2023,5849,Sunglasses,Accessories,16112,3,48336,Delhi,Credit Card
+340,08-05-2023,4457,Sunglasses,Accessories,3179,1,3179,Hyderabad,Debit Card
+341,26-05-2023,8503,T-Shirt,Clothing,66750,3,200250,Hyderabad,Cash
+342,19-01-2023,3357,Shoes,Footwear,53017,4,212068,Pune,Net Banking
+343,07-06-2023,4826,Sandals,Footwear,31946,4,127784,Hyderabad,Net Banking
+344,30-06-2023,1496,Headphones,Electronics,36518,5,182590,Mumbai,Credit Card
+345,03-07-2023,5322,Headphones,Electronics,17762,4,71048,Bangalore,Credit Card
+346,08-03-2023,4968,Mixer,Home Appliances,59318,1,59318,Hyderabad,Debit Card
+347,21-08-2023,3669,Jeans,Clothing,3916,2,7832,Chennai,Debit Card
+348,26-10-2023,3532,Coffee Maker,Home Appliances,59506,3,178518,Delhi,Cash
+349,22-06-2023,1444,Sunglasses,Accessories,10827,5,54135,Pune,Credit Card
+350,13-11-2023,3842,Sunglasses,Accessories,74864,4,299456,Hyderabad,Debit Card
+351,15-06-2023,5539,T-Shirt,Clothing,22896,3,68688,Delhi,Cash
+352,09-02-2023,9813,Laptop,Electronics,55106,3,165318,Bangalore,Cash
+353,07-08-2023,2657,Sunglasses,Accessories,26561,5,132805,Hyderabad,UPI
+354,09-01-2023,4505,Shoes,Footwear,20673,4,82692,Bangalore,Cash
+355,06-03-2023,7354,Watch,Accessories,24525,3,73575,Bangalore,Credit Card
+356,26-11-2023,2795,Headphones,Electronics,31066,4,124264,Mumbai,Cash
+357,28-01-2023,2741,Headphones,Electronics,10348,4,41392,Pune,Cash
+358,07-12-2023,5399,Coffee Maker,Home Appliances,16895,3,50685,Pune,Net Banking
+359,06-10-2023,7522,Laptop,Electronics,78367,2,156734,Hyderabad,Net Banking
+360,05-01-2023,3711,Sandals,Footwear,38023,5,190115,Chennai,UPI
+361,18-11-2023,4784,Mixer,Home Appliances,11736,4,46944,Chennai,UPI
+362,03-07-2023,9097,Watch,Accessories,22603,2,45206,Delhi,Debit Card
+363,13-06-2023,7388,Laptop,Electronics,2879,4,11516,Hyderabad,Debit Card
+364,29-01-2023,5074,Sunglasses,Accessories,31101,2,62202,Delhi,Net Banking
+365,01-03-2023,4685,Sunglasses,Accessories,4549,3,13647,Bangalore,Debit Card
+366,06-11-2023,1155,Laptop,Electronics,62913,5,314565,Mumbai,Debit Card
+367,21-02-2023,1277,Watch,Accessories,72874,2,145748,Bangalore,Debit Card
+368,20-05-2023,3518,Shoes,Footwear,17821,3,53463,Chennai,Debit Card
+369,24-01-2023,1224,Headphones,Electronics,57733,2,115466,Chennai,Net Banking
+370,04-04-2023,9014,Laptop,Electronics,29923,4,119692,Mumbai,Cash
+371,08-06-2023,9256,Watch,Accessories,72464,3,217392,Mumbai,Credit Card
+372,27-08-2023,6760,T-Shirt,Clothing,16220,3,48660,Pune,Cash
+373,16-06-2023,2926,Headphones,Electronics,3045,5,15225,Delhi,Cash
+374,07-03-2023,3536,Jeans,Clothing,65591,4,262364,Delhi,Cash
+375,11-03-2023,4609,Watch,Accessories,49721,4,198884,Mumbai,UPI
+376,06-08-2023,1095,Shoes,Footwear,43375,2,86750,Bangalore,Credit Card
+377,30-08-2023,5744,Sunglasses,Accessories,27544,5,137720,Pune,Credit Card
+378,22-11-2023,5458,Watch,Accessories,74035,4,296140,Mumbai,Cash
+379,06-04-2023,4315,Jeans,Clothing,20199,5,100995,Pune,Net Banking
+380,26-12-2023,7665,Jeans,Clothing,29231,5,146155,Bangalore,Cash
+381,13-04-2023,2207,Headphones,Electronics,27142,1,27142,Mumbai,Debit Card
+382,15-06-2023,1791,Jeans,Clothing,78988,4,315952,Hyderabad,Credit Card
+383,24-11-2023,8587,Laptop,Electronics,20598,1,20598,Delhi,Credit Card
+384,14-12-2023,1172,Headphones,Electronics,40655,2,81310,Mumbai,Debit Card
+385,14-11-2023,9488,Sunglasses,Accessories,67831,4,271324,Bangalore,Debit Card
+386,27-09-2023,6661,Laptop,Electronics,59823,5,299115,Hyderabad,UPI
+387,08-12-2023,8246,Shoes,Footwear,2357,1,2357,Pune,Debit Card
+388,15-06-2023,1286,Headphones,Electronics,60353,5,301765,Pune,Debit Card
+389,24-01-2023,7924,Sunglasses,Accessories,64290,5,321450,Hyderabad,Net Banking
+390,02-04-2023,7544,Headphones,Electronics,54422,2,108844,Pune,Credit Card
+391,18-07-2023,3741,Coffee Maker,Home Appliances,30507,1,30507,Bangalore,Credit Card
+392,17-05-2023,2250,Shoes,Footwear,38912,5,194560,Delhi,Credit Card
+393,28-03-2023,3372,Mixer,Home Appliances,34862,1,34862,Bangalore,Net Banking
+394,27-06-2023,1123,Coffee Maker,Home Appliances,20779,1,20779,Mumbai,UPI
+395,15-03-2023,3584,Headphones,Electronics,53853,1,53853,Delhi,Cash
+396,27-09-2023,5948,Sunglasses,Accessories,34948,1,34948,Pune,Debit Card
+397,17-08-2023,7437,Sandals,Footwear,46574,4,186296,Pune,Net Banking
+398,09-12-2023,3966,Coffee Maker,Home Appliances,59648,2,119296,Hyderabad,Credit Card
+399,23-01-2023,5660,Laptop,Electronics,62263,2,124526,Mumbai,Net Banking
+400,07-08-2023,7107,T-Shirt,Clothing,65123,3,195369,Pune,Net Banking
+401,17-06-2023,3241,Mixer,Home Appliances,37005,2,74010,Mumbai,Cash
+402,15-10-2023,8027,Headphones,Electronics,26274,5,131370,Mumbai,UPI
+403,10-02-2023,1125,T-Shirt,Clothing,59015,3,177045,Hyderabad,Debit Card
+404,11-05-2023,4343,Laptop,Electronics,51456,5,257280,Hyderabad,Debit Card
+405,15-02-2023,3907,Coffee Maker,Home Appliances,69552,2,139104,Hyderabad,Credit Card
+406,27-01-2023,7076,Sunglasses,Accessories,26864,5,134320,Delhi,UPI
+407,28-02-2023,9522,Sandals,Footwear,38242,2,76484,Hyderabad,Debit Card
+408,24-10-2023,9999,T-Shirt,Clothing,6345,2,12690,Delhi,Credit Card
+409,20-05-2023,8150,Headphones,Electronics,45785,5,228925,Chennai,Cash
+410,28-10-2023,9990,Sandals,Footwear,25810,2,51620,Pune,Credit Card
+411,18-01-2023,4711,Sandals,Footwear,34895,1,34895,Bangalore,Debit Card
+412,06-04-2023,9893,Coffee Maker,Home Appliances,45444,4,181776,Chennai,Credit Card
+413,28-05-2023,9055,Laptop,Electronics,50675,5,253375,Hyderabad,Debit Card
+414,07-11-2023,6849,Shoes,Footwear,45331,3,135993,Pune,Credit Card
+415,07-11-2023,2593,Mixer,Home Appliances,65703,1,65703,Delhi,Net Banking
+416,28-08-2023,6224,Watch,Accessories,75692,5,378460,Hyderabad,Net Banking
+417,18-10-2023,8670,Sandals,Footwear,8182,4,32728,Mumbai,Debit Card
+418,13-08-2023,2866,Mixer,Home Appliances,753,3,2259,Bangalore,Cash
+419,22-06-2023,6065,Laptop,Electronics,28772,2,57544,Chennai,Credit Card
+420,26-11-2023,6507,Headphones,Electronics,52285,4,209140,Hyderabad,Net Banking
+421,30-06-2023,5693,Sunglasses,Accessories,32111,2,64222,Mumbai,Debit Card
+422,25-06-2023,3597,Mixer,Home Appliances,55954,1,55954,Bangalore,Cash
+423,21-11-2023,1969,Laptop,Electronics,66817,4,267268,Chennai,Credit Card
+424,27-07-2023,8922,Shoes,Footwear,29155,5,145775,Bangalore,Cash
+425,09-02-2023,2175,Laptop,Electronics,35674,5,178370,Delhi,UPI
+426,03-08-2023,2043,Sunglasses,Accessories,27755,2,55510,Delhi,Credit Card
+427,20-04-2023,7870,Watch,Accessories,75117,2,150234,Pune,UPI
+428,24-06-2023,9848,Mixer,Home Appliances,71258,2,142516,Chennai,Net Banking
+429,08-01-2023,3621,Sandals,Footwear,53842,5,269210,Mumbai,UPI
+430,16-02-2023,1636,Sandals,Footwear,39935,3,119805,Delhi,Net Banking
+431,30-11-2023,8948,Headphones,Electronics,75210,3,225630,Mumbai,UPI
+432,18-12-2023,4875,Laptop,Electronics,1215,5,6075,Pune,Credit Card
+433,05-11-2023,9496,Watch,Accessories,55368,5,276840,Hyderabad,Net Banking
+434,04-03-2023,8822,Jeans,Clothing,77177,3,231531,Pune,Credit Card
+435,07-03-2023,6229,Shoes,Footwear,9187,4,36748,Bangalore,Net Banking
+436,16-11-2023,2298,T-Shirt,Clothing,19340,1,19340,Mumbai,Cash
+437,10-10-2023,4352,Headphones,Electronics,29865,2,59730,Delhi,Cash
+438,08-10-2023,4313,Shoes,Footwear,28712,1,28712,Pune,Net Banking
+439,25-08-2023,4987,Watch,Accessories,36940,5,184700,Pune,UPI
+440,23-09-2023,1932,Laptop,Electronics,17505,1,17505,Delhi,Credit Card
+441,27-10-2023,3717,Coffee Maker,Home Appliances,72508,5,362540,Hyderabad,Debit Card
+442,11-01-2023,3602,Mixer,Home Appliances,34510,2,69020,Hyderabad,Cash
+443,20-08-2023,6112,Watch,Accessories,6885,5,34425,Pune,Debit Card
+444,10-12-2023,8802,Headphones,Electronics,48830,3,146490,Delhi,Cash
+445,29-11-2023,6441,Coffee Maker,Home Appliances,49879,3,149637,Pune,UPI
+446,26-11-2023,3458,Headphones,Electronics,47066,2,94132,Chennai,UPI
+447,29-01-2023,9242,Sandals,Footwear,48658,5,243290,Chennai,Debit Card
+448,20-07-2023,9279,Shoes,Footwear,35327,5,176635,Chennai,Debit Card
+449,20-03-2023,1162,Shoes,Footwear,26460,2,52920,Mumbai,Debit Card
+450,27-11-2023,5197,Laptop,Electronics,46153,1,46153,Pune,Cash
+451,03-02-2023,3469,T-Shirt,Clothing,42196,2,84392,Chennai,UPI
+452,02-11-2023,4779,Laptop,Electronics,58479,1,58479,Hyderabad,Debit Card
+453,27-02-2023,6450,Mixer,Home Appliances,60102,5,300510,Bangalore,UPI
+454,20-12-2023,3182,Sandals,Footwear,40515,3,121545,Delhi,Net Banking
+455,02-11-2023,3888,Mixer,Home Appliances,8111,2,16222,Hyderabad,Credit Card
+456,28-09-2023,6349,Sandals,Footwear,45341,1,45341,Mumbai,Debit Card
+457,26-07-2023,6594,Sunglasses,Accessories,61534,4,246136,Bangalore,Debit Card
+458,04-09-2023,5119,Mixer,Home Appliances,26311,1,26311,Chennai,UPI
+459,11-01-2023,2880,Laptop,Electronics,13044,5,65220,Mumbai,Debit Card
+460,02-07-2023,8444,Shoes,Footwear,59198,2,118396,Chennai,Cash
+461,11-06-2023,5708,Coffee Maker,Home Appliances,69152,2,138304,Hyderabad,Credit Card
+462,01-07-2023,9135,Sunglasses,Accessories,72922,3,218766,Chennai,Net Banking
+463,31-01-2023,4929,Laptop,Electronics,27387,2,54774,Pune,Credit Card
+464,02-08-2023,7012,Mixer,Home Appliances,65134,5,325670,Bangalore,Net Banking
+465,30-07-2023,5324,Headphones,Electronics,29836,5,149180,Bangalore,Cash
+466,22-12-2023,4834,Mixer,Home Appliances,42668,3,128004,Delhi,Cash
+467,26-12-2023,1788,Sandals,Footwear,7153,2,14306,Delhi,Cash
+468,31-07-2023,8748,Shoes,Footwear,7200,1,7200,Bangalore,Credit Card
+469,25-11-2023,6970,Sandals,Footwear,55434,2,110868,Bangalore,Cash
+470,11-05-2023,1864,Mixer,Home Appliances,60833,4,243332,Hyderabad,UPI
+471,30-08-2023,6006,Mixer,Home Appliances,68884,1,68884,Delhi,Net Banking
+472,25-04-2023,6868,Sunglasses,Accessories,27886,4,111544,Mumbai,UPI
+473,07-03-2023,4188,Sandals,Footwear,24877,3,74631,Pune,Debit Card
+474,16-09-2023,3869,Sunglasses,Accessories,49547,1,49547,Pune,UPI
+475,27-06-2023,1469,Headphones,Electronics,55660,3,166980,Pune,UPI
+476,24-05-2023,9422,Laptop,Electronics,11174,1,11174,Pune,Debit Card
+477,23-04-2023,8739,Sandals,Footwear,427,4,1708,Hyderabad,Credit Card
+478,25-07-2023,5195,Headphones,Electronics,8297,3,24891,Pune,Credit Card
+479,20-12-2023,6288,Watch,Accessories,35737,1,35737,Chennai,UPI
+480,05-11-2023,5300,Watch,Accessories,42152,3,126456,Pune,Cash
+481,29-06-2023,5636,Coffee Maker,Home Appliances,39495,5,197475,Hyderabad,Debit Card
+482,07-06-2023,8825,Laptop,Electronics,50107,1,50107,Chennai,Credit Card
+483,23-12-2023,8618,Coffee Maker,Home Appliances,57844,1,57844,Bangalore,Net Banking
+484,02-07-2023,3389,Coffee Maker,Home Appliances,45313,2,90626,Pune,Cash
+485,23-08-2023,8113,Sunglasses,Accessories,36978,4,147912,Pune,Debit Card
+486,24-10-2023,1507,T-Shirt,Clothing,40474,1,40474,Delhi,Cash
+487,24-01-2023,3778,T-Shirt,Clothing,55238,2,110476,Hyderabad,Credit Card
+488,16-03-2023,2069,Sunglasses,Accessories,34199,2,68398,Chennai,Debit Card
+489,29-04-2023,7344,Watch,Accessories,72608,1,72608,Bangalore,Net Banking
+490,08-10-2023,5813,Headphones,Electronics,23070,5,115350,Delhi,Debit Card
+491,20-11-2023,9135,Mixer,Home Appliances,17941,4,71764,Hyderabad,Net Banking
+492,19-07-2023,3900,Sandals,Footwear,13726,1,13726,Bangalore,Cash
+493,21-01-2023,1361,Jeans,Clothing,53282,3,159846,Mumbai,Net Banking
+494,31-10-2023,2792,Coffee Maker,Home Appliances,36190,4,144760,Chennai,Net Banking
+495,26-02-2023,3755,Watch,Accessories,1560,3,4680,Pune,Cash
+496,15-01-2023,6351,Coffee Maker,Home Appliances,21080,4,84320,Hyderabad,Credit Card
+497,06-12-2023,3963,T-Shirt,Clothing,63040,2,126080,Chennai,Debit Card
+498,01-07-2023,7000,T-Shirt,Clothing,3239,4,12956,Pune,Debit Card
+499,20-04-2023,8093,Jeans,Clothing,11522,3,34566,Pune,Credit Card
+500,09-09-2023,9857,Coffee Maker,Home Appliances,1360,4,5440,Chennai,UPI
