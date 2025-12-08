@@ -2,7 +2,7 @@
 
 I recently completed a data analytics project focused on understanding monthly revenue trends, product performance, and customer behavior using Python. This project allowed me to apply core analytical techniques and build actionable insights from raw sales data.
 
-Key Technical Work Performed:
+# Key Technical Work Performed:
 
 1. Data Cleaning & Preprocessing -
 - Parsed and standardized date formats
@@ -26,7 +26,7 @@ Key Technical Work Performed:
 - Compared trends across months to identify peak periods and low-performing phases
 - Built clean visual summaries suitable for dashboards or reports
 
-Insights Identified:
+# Insights Identified:
 
 - Clear revenue seasonality across months
 - Specific products consistently dominated revenue in key months
