@@ -55,5 +55,5 @@ Thank you for taking the time to explore this analysis 😊!
 I’m always open to feedback, suggestions, or collaboration opportunities.
 If you found this helpful or have ideas to improve it, feel free to connect - I’d love to learn and grow together.
 
-To coonect with me, click on link below:
+To connect with me, click on link below:
 Linkedin - www.linkedin.com/in/girishwar-gangula
