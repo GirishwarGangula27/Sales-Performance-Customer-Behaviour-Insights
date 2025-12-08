@@ -1,4 +1,4 @@
-# Sales Analytics Project | End-to-End Data Analysis Using Python
+# Sales Performance & Customer Behaviour Insights (Python)
 
 I recently completed a data analytics project focused on understanding monthly revenue trends, product performance, and customer behavior using Python. This project allowed me to apply core analytical techniques and build actionable insights from raw sales data.
 
